@@ -11,7 +11,7 @@
 
 ## 👤 About This Portfolio
 
-This repository hosts my personal **GitHub Pages portfolio** — a fully responsive, dark-themed single-page resume built with vanilla HTML, CSS, and JavaScript. No frameworks. No build tools. Just deploy and go.
+This repository hosts my personal **GitHub Pages portfolio** — a fully responsive, dark-themed single-page resume built with vanilla HTML, CSS, and JavaScript. No frameworks. No build tools. Just deploy and go. 
 
 **Live Site →** `https://<your-github-username>.github.io/<repo-name>/`
 
